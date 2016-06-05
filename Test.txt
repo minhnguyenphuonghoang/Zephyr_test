@@ -6,3 +6,6 @@ Test 01
 
 Test 02
     Log    This is test case 002
+
+Test 03
+    Fail    What happen if there is 1 test failed
